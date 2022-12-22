@@ -19,4 +19,7 @@ Analysis Documents in repo:
 - This notebook takes the enhanced dataset from the scraping notebook and then creates two different recommender models.  A user can input a streaming TV show, and each of the models will return recommendations based on the inputted show's IMDB description.  One Model uses TF-IDF to create embeddings and the other uses transformers to create the embeddings.
 
 
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |

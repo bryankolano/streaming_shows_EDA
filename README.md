@@ -19,3 +19,12 @@ Analysis Documents in repo:
 - This notebook takes the enhanced dataset from the scraping notebook and then creates two different recommender models.  A user can input a streaming TV show, and each of the models will return recommendations based on the inputted show's IMDB description.  One Model uses TF-IDF to create embeddings and the other uses transformers to create the embeddings.
 
 
+| Value | Description |
+| ----------- | ----------- |
+| 5% | Probably an officer will leave for any reason before retirement, aka UFR or unqualified Retirement |
+| 25% | Probability a LTC will be promoted to COL |
+|66% | Probability a MAJ will be promoted to LTC|
+|80% | Probability a MAJ will be promoted to MAJ|
+|Probability a LTC with more than 20 years of service will retire, triangular distribution (20,22,26)|
+| 2 | Number of new MAJs to enter the organization each year
+| 1 | Number of new MAJs to enter the organization each year
